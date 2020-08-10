@@ -1,3 +1,5 @@
+YGO CARD FINDER
+App de busqueda de cartas con reactjs, bootstrap, es7, api rest
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
